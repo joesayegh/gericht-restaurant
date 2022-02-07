@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Gericht Restaurant
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a fork of [https://github.com/adrianhajdin/project_modern_ui_ux_restaurant](https://github.com/adrianhajdin/project_modern_ui_ux_restaurant).
+
+The Live Site is [https://gericht-restaurant.com/](https://gericht-restaurant.com/)
+
+**PNGs have been compressed or converted to SVGs where possible**
 
 ## Available Scripts
 
