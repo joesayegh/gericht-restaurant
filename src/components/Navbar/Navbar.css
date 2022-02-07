@@ -28,6 +28,7 @@
 .app__navbar-links li {
 	margin: 0 1rem;
 	cursor: pointer;
+	transition: 0.5s ease;
 }
 
 .app__navbar-links li:hover {
@@ -43,6 +44,7 @@
 .app__navbar-login a {
 	margin: 0 1rem;
 	text-decoration: none;
+	border-bottom: 1px solid transparent;
 	transition: 0.5s ease;
 }
 
