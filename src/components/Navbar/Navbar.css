@@ -60,6 +60,11 @@
 	display: none;
 }
 
+.app__navbar-smallscreen svg {
+	width: auto;
+	cursor: pointer;
+}
+
 .app__navbar-smallscreen_overlay {
 	position: fixed;
 	top: 0;
