@@ -6,6 +6,8 @@ The Live Site is [https://gericht-restaurant.com/](https://gericht-restaurant.co
 
 **PNGs have been compressed or converted to SVGs where possible**
 
+![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
