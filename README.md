@@ -2,7 +2,9 @@
 
 This is a fork of [https://github.com/adrianhajdin/project_modern_ui_ux_restaurant](https://github.com/adrianhajdin/project_modern_ui_ux_restaurant).
 
-The Live Site is [https://gericht-restaurant.com/](https://gericht-restaurant.com/)
+The Live Site URL is [https://relaxed-leavitt-bd145d.netlify.app/](https://relaxed-leavitt-bd145d.netlify.app/)
+
+The Original Site URL is [https://gericht-restaurant.com/](https://gericht-restaurant.com/)
 
 **PNGs have been compressed or converted to SVGs where possible**
 
